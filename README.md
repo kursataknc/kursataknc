@@ -50,7 +50,7 @@
 | Project | Description |
 |---------|-------------|
 | [**portfolio-kursataknc**](https://github.com/kursataknc/portfolio-kursataknc) → [kursataknc.dev](https://kursataknc.dev) | Next.js portfolio and self-hosted engineering lab. Per-request CSP nonces, CSRF double-submit, Zod-validated content, Playwright e2e. Deploys over a private mesh, so no deploy endpoint is exposed publicly. |
-| [**dotfiles**](https://github.com/kursataknc/dotfiles) | macOS/Linux dev environment managed with GNU Stow — Ghostty, Tmux, Nushell, Neovim |
+| [**dotfiles**](https://github.com/kursataknc/dotfiles) | Reproducible macOS/Linux CLI environment — GNU Stow, one-command bootstrap, Nushell + Neovim (LazyVim) + Tmux + Ghostty. Includes a patched tmux-powerline segment that samples live network throughput, reading `/sys/class/net` on Linux and `netstat` on macOS. |
 
 ## 📊 GitHub Stats
 

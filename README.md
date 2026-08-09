@@ -4,7 +4,7 @@
 ## 🧑‍💻 About Me
 
 - 🔐 Passionate about **cybersecurity** and **software development**
-- 🌱 Currently working on [**Boot.dev**](https://www.boot.dev) and [**LabEx**](https://labex.io)
+- 🌱 Currently taking courses on [**Boot.dev**](https://www.boot.dev) and [**LabEx**](https://labex.io)
 - 📫 Reach me at **kursataknc35@gmail.com**
 
 ## 🛠️ Tech Stack

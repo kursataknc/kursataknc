@@ -26,21 +26,26 @@
 
 | Project | Description |
 |---------|-------------|
-| [**aiagent**](https://github.com/kursataknc/aiagent) | Python AI agent with LLM function calling that reads, runs and fixes code in a sandboxed project |
-| [**Python-Course**](https://github.com/kursataknc/Python-Course) | 40+ Python projects and exercises: games, GUIs, APIs, data analysis and automation |
 | [**dotfiles**](https://github.com/kursataknc/dotfiles) | macOS/Linux dev environment managed with GNU Stow — Ghostty, Tmux, Nushell, Neovim |
-| [**StaticSiteGenerator**](https://github.com/kursataknc/StaticSiteGenerator) | Static site generator that converts Markdown into a full HTML site |
-| [**asteroids**](https://github.com/kursataknc/asteroids) | Classic Asteroids arcade game built with Python and Pygame |
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kursataknc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kursataknc&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kursataknc&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kursataknc&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kursataknc&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kursataknc&layout=compact&hide_border=true" alt="Top languages" height="165" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kursataknc&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kursataknc&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=kursataknc&hide_border=true" alt="GitHub streak" />
+  </picture>
 </p>
 
 ## 🌐 Connect With Me

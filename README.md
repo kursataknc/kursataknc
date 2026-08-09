@@ -4,6 +4,7 @@
 ## 🧑‍💻 About Me
 
 - 🔐 Passionate about **cybersecurity** and **software development**
+- 🌐 Portfolio and engineering lab: [**kursataknc.dev**](https://kursataknc.dev)
 - 🌱 Currently taking courses on [**Boot.dev**](https://www.boot.dev) and [**LabEx**](https://labex.io)
 - 📫 Reach me at **kursataknc35@gmail.com**
 
@@ -26,6 +27,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [**portfolio-kursataknc**](https://github.com/kursataknc/portfolio-kursataknc) → [kursataknc.dev](https://kursataknc.dev) | Next.js portfolio and self-hosted engineering lab. Per-request CSP nonces, CSRF double-submit, Zod-validated content, Playwright e2e. Deploys over a private mesh, so no deploy endpoint is exposed publicly. |
 | [**dotfiles**](https://github.com/kursataknc/dotfiles) | macOS/Linux dev environment managed with GNU Stow — Ghostty, Tmux, Nushell, Neovim |
 
 ## 📊 GitHub Stats

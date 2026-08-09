@@ -22,6 +22,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**aiagent**](https://github.com/kursataknc/aiagent) | Python AI agent with LLM function calling that reads, runs and fixes code in a sandboxed project |
+| [**Python-Course**](https://github.com/kursataknc/Python-Course) | 40+ Python projects and exercises: games, GUIs, APIs, data analysis and automation |
+| [**dotfiles**](https://github.com/kursataknc/dotfiles) | macOS/Linux dev environment managed with GNU Stow — Ghostty, Tmux, Nushell, Neovim |
+| [**StaticSiteGenerator**](https://github.com/kursataknc/StaticSiteGenerator) | Static site generator that converts Markdown into a full HTML site |
+| [**asteroids**](https://github.com/kursataknc/asteroids) | Classic Asteroids arcade game built with Python and Pygame |
+
 ## 📊 GitHub Stats
 
 <p align="center">

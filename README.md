@@ -8,7 +8,7 @@
 - 🖥️ Freelance backend & systems developer since July 2024. I run a hybrid lab: a public VPS alongside a bare-metal Proxmox cluster, joined by a private mesh
 - 🌐 Portfolio, engineering lab and role-shaped CVs: [**kursataknc.dev**](https://kursataknc.dev)
 - 🌱 Currently on [**Boot.dev**](https://www.boot.dev) and [**LabEx**](https://labex.io)
-- 📫 Reach me at **kursataknc35@gmail.com**
+- 📫 Reach me at **kursataknc06@gmail.com**
 
 ## 🛠️ Tech Stack
 
